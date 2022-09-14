@@ -11,7 +11,7 @@
 - Keeps score of amount of wins.<br>
 
 
-### ~~~~~ CONNECT4 ~~~~~~
+### ~~~~~~ CONNECT4 ~~~~~~
 
 <b>python</b><br>
 - A game made using pygame.<br>
