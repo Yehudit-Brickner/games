@@ -1,11 +1,19 @@
 # games
 
-<b> ~~~~~~ TIC-TAC-TOE ~~~~~~</b><br>
-cpp - the game is played in the terminal.<br>
-python - an iteractive game made using pygame.<br>
+### ~~~~~~ TIC-TAC-TOE ~~~~~~
+<b>cpp</b><br>
+- The game is played in the terminal. <br>
+- One round at a time.<br>
+
+<b>python</b><br>
+- A game made using pygame.<br>
+- Can play lots of games without restarting.<br>
+- Keeps score of amount of wins.<br>
 
 
-<br>
-<br>
-<b> ~~~~~ CONNECT4 ~~~~~~</b><br>
-python - an iteractive game made using pygame.<br>
+### ~~~~~ CONNECT4 ~~~~~~
+
+<b>python</b><br>
+- A game made using pygame.<br>
+- Can play lots of games without restarting.<br>
+- Keeps score of amount of wins.<br>
