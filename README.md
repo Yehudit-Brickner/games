@@ -28,4 +28,20 @@
 - A game made using pygame.<br>
 - Can play lots of games without restarting.<br>
 - Keeps score of amount of wins.<br>
-- you can choose the level- easy, medium, hard.
+- You can choose the level- easy, medium, hard.<br>
+
+
+### ~~~ GAME-OF-LIFE SIMULATION ~~~
+
+<b>cpp</b><br>
+- The game is simulation printed to the terminal. <br>
+- The game can be played on a regular board or a wrap around board - infite.<br>
+
+
+<b>python</b><br>
+- A simuation made using pygame.<br>
+- Multiple choices for the size of the board.<br>
+- The game can be played on a regular board or a wrap around board - infite.<br>
+- You can choose how the board starts or let it randomly start.<br>
+
+
