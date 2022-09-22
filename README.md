@@ -44,4 +44,12 @@
 - The game can be played on a regular board or a wrap around board - infite.<br>
 - You can choose how the board starts or let it randomly start.<br>
 
+### ~~~~~ MEMORY ~~~~~~
+
+<b>python</b><br>
+- A game made using pygame.<br>
+- Can play lots of games without restarting.<br>
+- Multiple choices for the size of the board.<br>
+- Keeps score of amount of wins.<br>
+
 
