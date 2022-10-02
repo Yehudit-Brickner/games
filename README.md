@@ -53,13 +53,12 @@ ________________________________________________________________________________
 - Keeps score of amount of wins.<br>
 - You can choose the level- easy, medium, hard.<br>
 
-<br>
 
 ___________________________________________________________________________________________________________________________________________________________
 
-<img align="right" width="600" height="300" src="https://github.com/Yehudit-Brickner/games/blob/main/images/life3pic.jpg">
-
 ### ~~~ GAME-OF-LIFE SIMULATION ~~~
+
+<img align="right" width="600" height="300" src="https://github.com/Yehudit-Brickner/games/blob/main/images/life3pic.jpg">
 
 <b>cpp</b><br>
 - The game is simulation printed to the terminal. <br>
@@ -72,8 +71,6 @@ ________________________________________________________________________________
 - The game can be played on a regular board or a wrap around board - infite.<br>
 - You can choose how the board starts or let it randomly start.<br>
 
-<br>
-<br>
 
 __________________________________________________________________________________________________________________________________________________________
 
