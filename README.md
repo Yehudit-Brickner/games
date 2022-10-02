@@ -38,7 +38,7 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________________________________
 
-<img align="right" width="200" height="300" src="https://github.com/Yehudit-Brickner/games/blob/main/images/minesweeperpic.jpg">
+<img align="right" width="400" height="300" src="https://github.com/Yehudit-Brickner/games/blob/main/images/minesweeper2.jpg">
 
 
 ### ~~~~~~ MINESWEEPER ~~~~~~
@@ -57,7 +57,7 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________________________________
 
-<img align="right" width="200" height="300" src="https://github.com/Yehudit-Brickner/games/blob/main/images/lifepic.jpg">
+<img align="right" width="600" height="300" src="https://github.com/Yehudit-Brickner/games/blob/main/images/life3pic.jpg">
 
 ### ~~~ GAME-OF-LIFE SIMULATION ~~~
 
@@ -77,7 +77,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________________________________
 
-<img align="right" width="200" height="300" src="https://github.com/Yehudit-Brickner/games/blob/main/images/memorypic.jpg">
+<img align="right" width="400" height="300" src="https://github.com/Yehudit-Brickner/games/blob/main/images/memory2pic.jpg">
 
 ### ~~~~~ MEMORY ~~~~~~                
 
