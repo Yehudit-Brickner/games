@@ -104,3 +104,16 @@ ________________________________________________________________________________
 - A game made using pygame.<br>
 - Can play lots of games without restarting.<br>
 - Keeps score of amount of wins.<br>
+
+<br>
+<br>
+
+___________________________________________________________________________________________________________________________________________________________
+
+### ~~~ SLIDE PUZZLE ~~~
+
+<b>python</b><br>
+- A game made using pygame.<br>
+- Can play lots of games without restarting.<br>
+- Multiple choices for the size of the board.<br>
+- Keeps score of the lowest time.<br>
